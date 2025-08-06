@@ -31,5 +31,11 @@ This project is a simple Python tool to help e-commerce store owners automatical
 - Add GUI for non-tech users
 
 ---
+## How to Run Locally
+1. Clone the repo
+2. Install dependencies: `pip install pandas`
+3. Add images in `/images/`
+4. Run `image_seo_optimizer.ipynb` in Jupyter Notebook
 
-Created by Shravani Swami ✨
+
+Created by Shravani Swami 
